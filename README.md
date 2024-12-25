@@ -1,4 +1,5 @@
 # EasyPasswordGenerator
+Easy python script with windows executable file to generate random strong passwords
 <div style="text-align:center"><img style="text-align:center" src="https://img.freepik.com/premium-vector/3d-password-field-with-padlock-isolated_169241-6460.jpg" /></div>
 
 ### Password Generator
