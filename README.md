@@ -17,7 +17,7 @@ Example:
 - passgen 8 1000  => output: **`75095112`**   
 
 
-## Getting started
+## Getting Started
 1. Add passgen.exe file into one of the known system env path like `%SystemRoot%` or `%SystemRoot%\system32` or create one and move executable file into it.
 2. Open cmd and run:
     ```
