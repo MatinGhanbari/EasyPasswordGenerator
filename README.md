@@ -28,3 +28,6 @@ Example:
 
 ## Screenshots
 <div style="text-align:center"><img style="text-align:center" src="https://raw.githubusercontent.com/MatinGhanbari/EasyPasswordGenerator/refs/heads/main/assets/images/image.png" /></div>
+
+# Contributing
+Pull requests are welcome. For changes, please open an issue first to discuss what you would like to change.
