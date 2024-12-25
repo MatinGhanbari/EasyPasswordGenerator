@@ -1,5 +1,5 @@
 # EasyPasswordGenerator
-<div style="text-align:center"><img src="https://img.freepik.com/premium-vector/3d-password-field-with-padlock-isolated_169241-6460.jpg" /></div>
+<div style="text-align:center"><img style="text-align:center" src="https://img.freepik.com/premium-vector/3d-password-field-with-padlock-isolated_169241-6460.jpg" /></div>
 
 ### Password Generator
 Usage: **passgen** [length] [flags]
@@ -24,3 +24,6 @@ Example:
     ```
     
     result: **y!_*nqO6**
+
+## Screenshots
+<div style="text-align:center"><img style="text-align:center" src="https://raw.githubusercontent.com/MatinGhanbari/EasyPasswordGenerator/refs/heads/main/assets/images/image.png" /></div>
